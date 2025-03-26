@@ -1,0 +1,212 @@
+[
+    {
+        "model": "birthday.birthday",
+        "pk": 1,
+        "fields": {
+            "first_name": "Александр",
+            "last_name": "Иванов",
+            "birthday": "1990-05-15",
+            "image": ""
+        }
+    },
+    {
+        "model": "birthday.birthday",
+        "pk": 2,
+        "fields": {
+            "first_name": "Мария",
+            "last_name": "Петрова",
+            "birthday": "1985-08-22",
+            "image": ""
+        }
+    },
+    {
+        "model": "birthday.birthday",
+        "pk": 3,
+        "fields": {
+            "first_name": "Иван",
+            "last_name": "Сидоров",
+            "birthday": "1975-11-10",
+            "image": ""
+        }
+    },
+    {
+        "model": "birthday.birthday",
+        "pk": 4,
+        "fields": {
+            "first_name": "Елена",
+            "last_name": "",
+            "birthday": "1992-03-25",
+            "image": ""
+        }
+    },
+    {
+        "model": "birthday.birthday",
+        "pk": 5,
+        "fields": {
+            "first_name": "Николай",
+            "last_name": "Кузнецов",
+            "birthday": "1980-07-14",
+            "image": ""
+        }
+    },
+    {
+        "model": "birthday.birthday",
+        "pk": 6,
+        "fields": {
+            "first_name": "Ольга",
+            "last_name": "Смирнова",
+            "birthday": "1995-12-01",
+            "image": ""
+        }
+    },
+    {
+        "model": "birthday.birthday",
+        "pk": 7,
+        "fields": {
+            "first_name": "Дмитрий",
+            "last_name": "Попов",
+            "birthday": "1988-09-18",
+            "image": ""
+        }
+    },
+    {
+        "model": "birthday.birthday",
+        "pk": 8,
+        "fields": {
+            "first_name": "Анна",
+            "last_name": "Морозова",
+            "birthday": "1970-02-05",
+            "image": ""
+        }
+    },
+    {
+        "model": "birthday.birthday",
+        "pk": 9,
+        "fields": {
+            "first_name": "Сергей",
+            "last_name": "Лебедев",
+            "birthday": "1983-06-30",
+            "image": ""
+        }
+    },
+    {
+        "model": "birthday.birthday",
+        "pk": 10,
+        "fields": {
+            "first_name": "Татьяна",
+            "last_name": "Ковалева",
+            "birthday": "1998-04-12",
+            "image": ""
+        }
+    },
+    {
+        "model": "birthday.birthday",
+        "pk": 11,
+        "fields": {
+            "first_name": "Алексей",
+            "last_name": "Федоров",
+            "birthday": "1977-10-20",
+            "image": ""
+        }
+    },
+    {
+        "model": "birthday.birthday",
+        "pk": 12,
+        "fields": {
+            "first_name": "Екатерина",
+            "last_name": "Захарова",
+            "birthday": "1993-01-08",
+            "image": ""
+        }
+    },
+    {
+        "model": "birthday.birthday",
+        "pk": 13,
+        "fields": {
+            "first_name": "Михаил",
+            "last_name": "Волков",
+            "birthday": "1981-03-27",
+            "image": ""
+        }
+    },
+    {
+        "model": "birthday.birthday",
+        "pk": 14,
+        "fields": {
+            "first_name": "Наталья",
+            "last_name": "Белова",
+            "birthday": "1996-07-03",
+            "image": ""
+        }
+    },
+    {
+        "model": "birthday.birthday",
+        "pk": 15,
+        "fields": {
+            "first_name": "Артем",
+            "last_name": "Григорьев",
+            "birthday": "1989-09-15",
+            "image": ""
+        }
+    },
+    {
+        "model": "birthday.birthday",
+        "pk": 16,
+        "fields": {
+            "first_name": "Юлия",
+            "last_name": "Романова",
+            "birthday": "1994-11-22",
+            "image": ""
+        }
+    },
+    {
+        "model": "birthday.birthday",
+        "pk": 17,
+        "fields": {
+            "first_name": "Павел",
+            "last_name": "Козлов",
+            "birthday": "1987-05-05",
+            "image": ""
+        }
+    },
+    {
+        "model": "birthday.birthday",
+        "pk": 18,
+        "fields": {
+            "first_name": "Ирина",
+            "last_name": "Васильева",
+            "birthday": "1991-08-14",
+            "image": ""
+        }
+    },
+    {
+        "model": "birthday.birthday",
+        "pk": 19,
+        "fields": {
+            "first_name": "Владимир",
+            "last_name": "Макаров",
+            "birthday": "1972-12-30",
+            "image": ""
+        }
+    },
+    {
+        "model": "birthday.birthday",
+        "pk": 20,
+        "fields": {
+            "first_name": "Светлана",
+            "last_name": "Николаева",
+            "birthday": "1997-02-18",
+            "image": ""
+        }
+    },
+    {
+        "model": "birthday.birthday",
+        "pk": 21,
+        "fields": {
+            "first_name": "Денис",
+            "last_name": "Жуков",
+            "birthday": "1984-04-25",
+            "image": ""
+        }
+    }
+]
